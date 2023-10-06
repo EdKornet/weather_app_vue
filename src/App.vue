@@ -8,7 +8,6 @@ export default {
   computed : {
     cityName() {
       return '"' + this.city + '"'
-
     }
   }
 }
